@@ -4,7 +4,7 @@ Comment installer Rust ?
 
 ## Windows
 
-Premierement insatller MSVC, qui est le compilateur c de Visual Studio
+Premierement insatller MSVC, qui est le compilateur C / C++ de Visual Studio
 https://visualstudio.microsoft.com/fr/vs/community/
 
 ## Linux
